@@ -42,7 +42,7 @@ Advice on how to approach the exam, manage time effectively during the test, and
 
 > **Quote of the Day**: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 
-```css
+
 /* Add some custom styles for your README */
 .badge {
   background-color: #0073e6;
@@ -61,12 +61,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Acknowledgments
 Thanks to all the contributors who have helped to enrich the repository with valuable resources.
 Special thanks to IBM for providing the platform and tools necessary for effective learning and certification preparation.
-rust
-Copy code
 
 This Markdown file includes badges for visual appeal, tables for organized timelines and resources, and stylized text for easy reading. HTML and CSS can be used within GitHub Markdown files, but they have limitations and might not always render as expected directly in the README.md file. This structure should give a comprehensive guide to anyone following the IBM TW108 course and preparing for certification exams under the `Cyber Retaliator Solutions Organisation`.
-
-
-
-
-
