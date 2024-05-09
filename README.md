@@ -43,7 +43,7 @@ Advice on how to approach the exam, manage time effectively during the test, and
 > **Quote of the Day**: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 
 
-/* Add some custom styles for your README */
+
 .badge {
   background-color: #0073e6;
   color: white;
@@ -52,6 +52,7 @@ Advice on how to approach the exam, manage time effectively during the test, and
   border-radius: 5px;
   box-shadow: 1px 1px 3px #333;
 }
+
 Contributing
 If you wish to contribute to this repository, please fork the repo and submit a pull request. For more detailed instructions, check out the Contributing Guide.
 
