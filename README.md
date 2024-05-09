@@ -1,7 +1,3 @@
-Creating a README.md file for a repository called KENAC under the Cyber Retaliator Solutions Organisation, aimed at guiding users through an IBM course (TW108) and their learning path toward certification exam and badging preparation is a detailed task. Below is a sample structure and content you can use for this README file. This includes design elements like badges, tables, and other HTML/CSS stylings suitable for a GitHub-flavored Markdown file:
-
-markdown
-Copy code
 # KENAC - TW108 Course Repository
 
 Welcome to the **KENAC** repository, managed by Cyber Retaliator Solutions Organisation. This repository is designed to support learners enrolled in the IBM course TW108, focusing on the path to certification and badging from the end of the course on May 10, 2024, until May 31, 2024.
