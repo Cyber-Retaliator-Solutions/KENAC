@@ -21,7 +21,7 @@ The TW108 course is a crucial step on your journey to becoming a certified IBM p
 |-------------|-------------------------------------|------------------------------------|
 | **May 10, 2024** | Course Completion              | [📚 Course Material](#course-material) |
 | **May 11, 2024** | Exam Study Kick-Off            | [📝 Study Guide](#study-guide)     |
-| **May 13, 2024** | Teams Meeting 20:00h           | [📝 Study Guide](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjFhNTQ2MWQtN2UzMC00ZTVhLWI5NjctM2ViZWEwNzkwNDA2%40thread.v2/0?context=%7b%22Tid%22%3a%22972e8de4-e365-43a3-99ec-c86a0cc249e8%22%2c%22Oid%22%3a%221cc1634a-f8b6-4611-a3c3-be6ebfda6466%22%7d)    |
+| **May 13, 2024** | Teams Meeting 20:00h           | [📝 Link Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjFhNTQ2MWQtN2UzMC00ZTVhLWI5NjctM2ViZWEwNzkwNDA2%40thread.v2/0?context=%7b%22Tid%22%3a%22972e8de4-e365-43a3-99ec-c86a0cc249e8%22%2c%22Oid%22%3a%221cc1634a-f8b6-4611-a3c3-be6ebfda6466%22%7d)    |
 | **May 12 - 30, 2024** | Study and Practice Sessions | [🔍 Practice Tests](#practice-tests)   |
 | **May 31, 2024** | Certification Exam             | [🎯 Exam Tips](#exam-tips)         |
 
