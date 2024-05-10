@@ -7,9 +7,9 @@
 
 ## Links to certification images
 
-<https://images.credly.com/images/7b7cceb0-20e6-4e7a-a46c-432527006acc/IBM_Certified_Deployment_Professional_-_Security_Verify_Access_V10.0.png>
+[Badge: Link](https://images.credly.com/images/7b7cceb0-20e6-4e7a-a46c-432527006acc/IBM_Certified_Deployment_Professional_-_Security_Verify_Access_V10.0.png)
 
-<https://images.credly.com/images/30b39d72-4f59-429a-932f-4fbb99d1fb0f/IBM_Certified_Administrator_-_Security_Verify_SaaS_v1.png>
+[Badge: Link](https://images.credly.com/images/30b39d72-4f59-429a-932f-4fbb99d1fb0f/IBM_Certified_Administrator_-_Security_Verify_SaaS_v1.png)
 
 ****
 
@@ -47,13 +47,13 @@
 
 ## Links to badge images
 
-<https://images.credly.com/images/e15ac3c9-0c04-40bc-85d9-b9f17e2e946c/image.png>
+[Badge: Image](https://images.credly.com/images/e15ac3c9-0c04-40bc-85d9-b9f17e2e946c/image.png)
 
-<https://images.credly.com/images/bf76264f-bdc5-4cf2-ac0f-b804065c885f/image.png>
+[Badge: Image](https://images.credly.com/images/bf76264f-bdc5-4cf2-ac0f-b804065c885f/image.png)
 
-<https://images.credly.com/images/a4d15972-5d8d-4b9b-9ad5-48dc7d632312/IBM_Security_Verify_Access_Foudations_-_Code_TW108G.png>
+[Badge: Image](https://images.credly.com/images/a4d15972-5d8d-4b9b-9ad5-48dc7d632312/IBM_Security_Verify_Access_Foudations_-_Code_TW108G.png)
 
-<https://images.credly.com/images/5e3c64b5-dcbf-4509-94cc-6f1b523a3b74/image.png>
+[Badge: Image](https://images.credly.com/images/5e3c64b5-dcbf-4509-94cc-6f1b523a3b74/image.png)
 
 <https://images.credly.com/images/d9d6da40-cba4-45a6-9c0c-955b9e5f13ab/image.png>
 
