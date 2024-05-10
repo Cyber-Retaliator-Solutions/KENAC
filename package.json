@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@carbon/react": "^1.57.0",
+    "@carbon/styles": "^1.57.0"
+  }
+}
