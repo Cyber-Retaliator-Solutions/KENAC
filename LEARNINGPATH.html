@@ -1,43 +1,90 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>IBM Security Learning Path 🚀</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-            gap: 20px;
-            padding: 20px;
-        }
-
-        .badge {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-            width: 150px;
-            transition: transform 0.5s;
-        }
-
-        .badge:hover {
-            transform: scale(1.1);
-            box-shadow: 0 0 10px #555;
-        }
-
-        .badge img {
-            width: 100px;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IBM Security Learning Path</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f0f0f0;
+  }
+  .navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+  }
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-width: 1200px;
+    padding: 10px 20px;
+  }
+  .nav-item {
+    padding: 10px 20px;
+    color: white;
+  }
+  .nav-item:hover {
+    background-color: #555;
+    cursor: pointer;
+  }
+  .container {
+    margin-top: 60px; /* Space for fixed navbar */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  .badge {
+    flex: 1 1 200px; /* Grow to fill available space, don’t shrink, base width 200px */
+    margin: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    text-align: center;
+  }
+  img {
+    width: 100px;
+    height: auto;
+  }
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  @media (max-width: 600px) {
+    .nav-menu {
+      flex-direction: column;
+    }
+    .nav-item {
+      text-align: center;
+      width: 100%;
+    }
+  }
+</style>
 </head>
 <body>
+
+<div class="navbar">
+  <ul class="nav-menu">
+    <li class="nav-item">Home</li>
+    <li class="nav-item">About</li>
+    <li class="nav-item">Services</li>
+    <li class="nav-item">Contact</li>
+  </ul>
+</div>
     <div class="container">
         <!-- Foundational Level -->
         <div class="badge">
@@ -122,5 +169,10 @@
             </a>
         </div>
     </div>
+<footer>
+  <p>Disclaimer: The information provided is for educational purposes only.</p>
+  <p>Contact us: email@example.com | +1 800 123 4567</p>
+</footer>
+
 </body>
 </html>
